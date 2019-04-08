@@ -19,7 +19,7 @@
 http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/
 
 
-# reference
+## reference
 
 * Recommandation system
 
@@ -37,7 +37,7 @@ https://medium.com/logicai/non-negative-matrix-factorization-for-recommendation-
 
 https://stackoverflow.com/questions/38708621/how-to-calculate-percentage-of-sparsity-for-a-numpy-array-matrix
 
-# Example
+## Example
 
 * 예시 데이터 
 <img src="/path/to/figure.jpg">
