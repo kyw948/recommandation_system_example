@@ -39,13 +39,13 @@ https://stackoverflow.com/questions/38708621/how-to-calculate-percentage-of-spar
 
 ## Example
 
-* 예시 데이터 , rmse, mae figure
+* 예시 데이터
 
 <img width="429" alt="figure" src="https://user-images.githubusercontent.com/37811577/55779952-c4f45880-5ae1-11e9-8156-56631f37c81d.png">
-![figure2](https://user-images.githubusercontent.com/37811577/55779953-c4f45880-5ae1-11e9-88d1-8b39d1e4cd12.png)
-
 
 
 * rmse, mae figure
-<img src="/path/to/figure2.jpg">
+
+![figure2](https://user-images.githubusercontent.com/37811577/55780048-fe2cc880-5ae1-11e9-9e69-6b41c86bce1e.png)
+
 
